@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App SoccerSpotter</string>
+    <string name="item1">Ver Perfil</string>
+    <string name="item2">Configuración</string>
+    <string name="item3">Membresía SoccerPlus</string>
+    <string name="user">Correo electrónico</string>
+    <string name="pass">Contraseña</string>
+    <string name="registrar">Registrarse</string>
+    <string name="olvidarPassword">¿Has olvidado tu contraseña?</string>
+
+</resources>
